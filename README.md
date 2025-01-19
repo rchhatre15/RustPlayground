@@ -1,1 +1,1 @@
-# Rust Playground Coming Soon!
+# Rust Playground Coming Soon 🗿
