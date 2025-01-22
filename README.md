@@ -1,1 +1,1 @@
-# Rust Playground Coming Soon 🗿
+# Rust/Solana Playground Coming Soon 🗿
